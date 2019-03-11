@@ -1,0 +1,27 @@
+:host {
+  height: 100%;
+  width: 100%;
+	display: flex;
+  align-items: center;
+
+  i {
+		color: #F37037;
+	}
+
+  .album-img {
+		margin-left: 2%;
+		float: left;
+		height: 3vh;
+  }
+
+  .album-name {
+		margin-left: 2%;
+  }
+}
+
+
+
+
+
+
+

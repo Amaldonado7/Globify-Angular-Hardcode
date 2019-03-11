@@ -1,0 +1,25 @@
+:host {
+  width: 30%;
+  height: 100%;
+	padding-top: 16vh;
+	padding-left: 1vw;
+	background-color: #333333;
+
+  h1 {
+    font-size: 50px;
+    font-weight: 300;
+    color: #cccccc;
+    margin-left: 5%;
+    margin-bottom: 30px;
+  }
+
+  li {
+		cursor: pointer;
+		list-style: none;
+		height: 10%;
+		width: 100%;
+		padding: 1%;
+		margin: 1%;
+	}
+
+}
